@@ -13,3 +13,4 @@ resource "azurerm_storage_account" "akshaistr001" {
 
 MEGASTAR 
 SUPERSTAR
+BURNING STAR
